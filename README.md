@@ -4,7 +4,9 @@ The markdown-notes-app is an easy-to-use ui for taking notes. It uses the react-
 
 # Preview:
 
-// add image here.
+![preview_1](https://user-images.githubusercontent.com/65996001/211173050-83be9a4e-de4f-4dc6-9463-3ff878682511.jpg)
+
+![preview_2](https://user-images.githubusercontent.com/65996001/211173051-5c5e3156-0d99-425e-8b3d-12f41a1f2816.jpg)
 
 - The `public` directory contains the html page
 - The `src` directory contains the images and the components folder and all other js and css files.
